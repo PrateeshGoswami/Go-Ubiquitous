@@ -1,3 +1,4 @@
 
 
-Watch face for an android app to show time and weather information.
+Watch face for an android app Sunshine to show time and weather information.
+
